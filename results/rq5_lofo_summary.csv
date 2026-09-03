@@ -1,0 +1,16 @@
+model,metric,estimate,bootstrap_ci_low,bootstrap_ci_high,bootstrap_resamples,n_datasets,interpretation
+intercept_only,mae,0.029442147587999866,0.022552032839837519,0.036631161575230865,10000,35,lower is better
+intercept_only,rmse,0.038964473512905065,0.029489864129573232,0.04709587401166726,10000,35,lower is better
+intercept_only,mean_error,0.00064441230536922971,-0.011325212716578216,0.011968908738834919,10000,35,zero is unbiased
+intercept_only,spearman_correlation,-0.40551460498234621,,,0,35,descriptive only
+intercept_only,oof_r_squared,-0.048502168710845783,,,0,35,descriptive only
+signals_only,mae,0.033503327235704428,0.025586289791431401,0.041439363463131311,10000,35,lower is better
+signals_only,rmse,0.043174425583586737,0.03406847785002471,0.05111047491459756,10000,35,lower is better
+signals_only,mean_error,0.0020081393017295579,-0.010275296614520812,0.013768111017600683,10000,35,zero is unbiased
+signals_only,spearman_correlation,-0.13949579831932774,,,0,35,descriptive only
+signals_only,oof_r_squared,-0.28731504397400176,,,0,35,descriptive only
+intrinsic_only,mae,0.033868659930977679,0.026917288884781961,0.040690065756888785,10000,35,lower is better
+intrinsic_only,rmse,0.041877650715051652,0.032590844869731399,0.049975825653031165,10000,35,lower is better
+intrinsic_only,mean_error,0.0062748045052299405,-0.0055995174043974453,0.01755065996664161,10000,35,zero is unbiased
+intrinsic_only,spearman_correlation,-0.25966386554621851,,,0,35,descriptive only
+intrinsic_only,oof_r_squared,-0.2111455248787355,,,0,35,descriptive only

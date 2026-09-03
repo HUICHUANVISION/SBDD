@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the STVR paper."
+title: "SBDD — Search Breadth in Software Defect Prediction"
+authors:
+  - family-names: Ding
+    given-names: Yongchang
+    affiliation: "Wuhan University"
+    orcid: "https://orcid.org/0000-0002-4736-1845"
+  - family-names: Peng
+    given-names: Rong
+    affiliation: "Wuhan University"
+  - family-names: Jing
+    given-names: Xiao-Yuan
+    affiliation: "Wuhan University"
+type: software
+date-released: 2026-09-03
+license: MIT
+repository-code: "https://github.com/HUICHUANVISION/SBDD"
+keywords:
+  - software defect prediction
+  - nested cross-validation
+  - selection optimism
+  - search breadth
+  - deployment difficulty
+preferred-citation:
+  type: article
+  title: "Search Breadth and Deployment Difficulty: How Candidate-Pool Size Shapes Realized Utility in Software Defect Prediction"
+  authors:
+    - family-names: Ding
+      given-names: Yongchang
+    - family-names: Peng
+      given-names: Rong
+    - family-names: Jing
+      given-names: Xiao-Yuan
+  journal: "Software Testing, Verification and Reliability"
+  year: 2026
