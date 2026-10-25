@@ -2,12 +2,6 @@
 
 This repository holds the experimental artifacts accompanying:
 
-> Yongchang Ding, Rong Peng, Xiao-Yuan Jing.
-> *Search Breadth and Deployment Difficulty: How Candidate-Pool Size Shapes Realized Utility in Software Defect Prediction.*
-> Software Testing, Verification and Reliability (STVR), 2026.
-
-The paper introduces **PERE** (Procedure-Level Evaluation of Outer Realized Utility and Selection Optimism under Candidate-Catalog Expansion) and reports a paired-curve analysis of nested candidate search on 35 static software-defect-prediction datasets. This repository contains the data, code, and intermediate results required to reproduce the paper.
-
 ## Repository layout
 
 ```
